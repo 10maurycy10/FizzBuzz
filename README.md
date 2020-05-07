@@ -2,4 +2,4 @@
 
 ## a collection of FizzBuzz programs
 
-expectations in files.
+explanations in files.
