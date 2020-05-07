@@ -5,3 +5,5 @@ function fizz(n){
     var buzz = x => test(5, "Buzz", x);
     return fizz(buzz(x => x))(n.toString());
 }
+
+//output = fizz(number)

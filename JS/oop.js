@@ -1,3 +1,8 @@
+/**********************************************
+ *  I KNOW JS HAS CLASSES                     *
+ *  but functions are shorter and cleaner     *
+ **********************************************/
+
 function FizzBuzz(data) { //FizzBuzz factory [OOP]
     function FizzBuzzDataWrapper(data) { //warper for '.' because '.' is to simple
         data = data || [{d: 3, s : "Fizz"},{d: 5, s : "Buzz"}]

@@ -12,3 +12,5 @@ function fbf(data) {
     }
 }
 f = fbf()
+
+//output = f(number)

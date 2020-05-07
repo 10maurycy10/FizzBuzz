@@ -4,3 +4,5 @@ function fizz(n){ //build string incrementally
     (n%5)?b="":b="Buzz";
     return(f||b?f+b:n.toString());
 }
+
+//output = fizz(number)

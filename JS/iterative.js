@@ -10,3 +10,5 @@ function fizz(n) { //enumerate all outputs
         else
             return n.toString
 }
+
+//output = fizz(number)
