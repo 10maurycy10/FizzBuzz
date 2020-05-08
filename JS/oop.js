@@ -46,3 +46,4 @@ function FizzBuzz(data) { //FizzBuzz factory [OOP]
 }
 myFizz = FizzBuzz()
 
+//output = myFizz.FizzBuzz(number)
